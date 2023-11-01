@@ -1,0 +1,26 @@
+<annotation>
+	<folder>labeled_all_trafic_signs_and_vehicles_1</folder>
+	<filename>62-0.jpg</filename>
+	<path>project_path\data\google_maps_test\labeled_imgs\62-0.xml</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>traffic_sign</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>149</ymin>
+			<xmax>33</xmax>
+			<ymax>198</ymax>
+		</bndbox>
+	</object>
+</annotation>
