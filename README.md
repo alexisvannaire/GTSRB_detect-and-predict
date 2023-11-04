@@ -5,7 +5,7 @@ This project aims at showing how to build AI models based on the GTSRB dataset.
 
 It will help you to get started with the Computer Vision field. You will find all the functions I used for processing data, handling models, visualizations, and so on.
 
-You can find the associated blog post on Medium here: [...](https://www.google.com)
+You can find the associated blog post on Medium here: [https://medium.com/@vannairea/traffic-signs-detection-and-classification-with-detecto-and-tensorflow-eebc31a1c93c](https://medium.com/@vannairea/traffic-signs-detection-and-classification-with-detecto-and-tensorflow-eebc31a1c93c)
 
 ## The project
 
